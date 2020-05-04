@@ -1,6 +1,6 @@
 # JavaScript Advanced Functions: First-Class Functions Lab
 
-## Objectives
+## Objectives    
 1. Invoke functions assigned to a variable.
 2. Invoke functions stored in a data structure.
 3. Write functions that return other functions.
